@@ -2,18 +2,18 @@
 <all>
 	<config>
 		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
+		<league>UnitedFL</league>
 		<cmdprefix>?</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
+		<league>U.F.L.</league>
+		<commish>Cgadgetz</commish>
+		<rules>http://www.daddyleagues.com/UnitedFL/rules</rules>
 		<owners>put owners link here</owners>
-		<advance>9/3, 5pm Central</advance>
-		<draft>9/3, 5pm Central</draft>
+		<advance>11pm east</advance>
+		<draft>TBD</draft>
 		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
 	</info>
 	<img>
@@ -35,13 +35,13 @@
 		<nostradamus>8ball</nostradamus>
 	</alias>
 	<twitch>
-		<buf>sometwitchname</buf>
+		<buf></buf>
 		<mia/>
 		<ne/>
 		<nyj/>
 		
-		<bal/>
-		<cin/>
+		<bal/>twitch.tv/cgadgetz < /bal>
+	 	<cin/>
 		<cle/>
 		<pit/>
 		
@@ -74,7 +74,7 @@
 		<sea/>
 		<sf/>
 		<la/>
-	</twitch>
+	< /twitch>
 	<magic8ball>
 		<reply>It is certain</reply>
 		<reply>It is decidedly so</reply>
