@@ -2,23 +2,23 @@
 <all>
 	<config>
 		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
+		<league>SMB</league>
 		<cmdprefix>?</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
-		<owners>put owners link here</owners>
-		<advance>9/3, 5pm Central</advance>
-		<draft>9/3, 5pm Central</draft>
+		<league>Super Madden Br0s</league>
+		<commish>Elijah</commish>
+		<rules>https://docs.google.com/document/d/1fGQNGDMZEUkjw2eGxhFfhK2AVtBkscwYTiZqytM6glo/edit</rules>
+		<owners>https://docs.google.com/spreadsheets/d/1bODORshOybbLEqoVPhCBh_bIrNcCPGcALJZvyAlX7Dc/edit#gid=0</owners>
+		<advance>Every 48 Hours</advance>
+		<draft></draft>
 		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
 	</info>
 	<img>
 		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
-		<ring>http://vignette3.wikia.nocookie.net/lotr/images/9/9b/TheOneRing.jpg</ring>
+		<ring>Omar 4 Justin 2 Kyle P 1 </ring>
 	</img>
 	<youtube>
 		<signman>https://www.youtube.com/channel/UCzLK6pOdCYmkEWWoEIxOJ2g</signman>
@@ -35,7 +35,7 @@
 		<nostradamus>8ball</nostradamus>
 	</alias>
 	<twitch>
-		<buf>sometwitchname</buf>
+		<buf></buf>
 		<mia/>
 		<ne/>
 		<nyj/>
@@ -50,10 +50,10 @@
 		<jac/>
 		<ten/>
 		
-		<den/>
+		<den>od2797</den>
 		<kc/>
 		<oak/>
-		<sd/>
+		<ldn/>
 		
 		<dal/>
 		<nyg/>
